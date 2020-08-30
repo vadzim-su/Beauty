@@ -30,6 +30,7 @@ body {
 
 .nav > li > a {
   text-decoration: none;
+  color: #000000;
 }
 
 .header__top {
@@ -149,7 +150,6 @@ body {
   padding: 35px 41px;
   display: flex;
   justify-content: space-between;
-  /* align-items: center; */
 }
 
 .bg-green p {
